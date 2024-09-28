@@ -10,7 +10,6 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -39,7 +38,6 @@ This project utilizes geospatial machine learning to predict the optimal network
   - joblib
   - xgboost
 
-## Contact
 
 ## Contact
 
